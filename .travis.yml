@@ -4,6 +4,7 @@ language: smalltalk
 os:
   - linux
   - osx
+  - windows
 
 # Select virtual machine(s)
 smalltalk_vm:
